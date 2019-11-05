@@ -53,3 +53,4 @@ end
     sql <<-SQL
     SELECT * FROM students WHERE grade=9 
     SQL
+  end 
